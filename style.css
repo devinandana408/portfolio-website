@@ -72,6 +72,7 @@ border-radius:5px;
 
 .hero-image{
 position:relative;
+border-radius: 50%;
 }
 
 .hero-image img{
