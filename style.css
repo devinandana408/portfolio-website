@@ -118,8 +118,9 @@ width:60%;
 }
 
 footer{
-text-align:bottom;
-padding:30px;
+text-align:center;
+padding:10px;
+
 background:black;
 color:white;
 }
